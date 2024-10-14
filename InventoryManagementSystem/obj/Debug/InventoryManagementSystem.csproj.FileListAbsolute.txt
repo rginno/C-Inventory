@@ -1,0 +1,93 @@
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\Rog Strix\Desktop\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\Rog Strix\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\Rog Strix\Desktop\Courses\C#\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
